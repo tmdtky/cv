@@ -16,7 +16,7 @@
 
 - 大小併せて15件ほどのシステム開発プロジェクト経験があります。
 
-- 企画、要件定義、基本設計、詳細設計、開発、単体テスト、結合テスト、総合テスト、パフォーマンステスト、受入テスト、導入、運用、保守など様々なフェーズを経験している強みがあります。
+- 企画、要件定義、基本設計、詳細設計、開発、単体テスト、結合テスト、総合テスト、パフォーマンステスト、受入テスト、導入、運用、保守など様々なフェーズを経験しています。
 
 - プロダクトマネジメント、システムアーキテクチャ設計、クラウドインフラ構築管理、基盤コード開発、DevOpsが現在の専門です。
 
@@ -54,7 +54,7 @@ GitHub | BitBucket | GitLab | Salesforce
 
 ### その他
 
-Terraform | Docker | Jenkins | nginx | Apache | Tomcat | Webpack |  SASS | IIS | Active Directory | Sharepoint Server | Exchage Server
+Terraform | Docker | Jenkins | nginx | Apache | Tomcat | Webpack | SASS | | WordPress | IIS | Active Directory | Sharepoint Server | Exchage Server
 
 ## バリューを発揮しやすい業務
 
@@ -92,6 +92,7 @@ Terraform | Docker | Jenkins | nginx | Apache | Tomcat | Webpack |  SASS | IIS |
 - クラウドの権限管理
 - 監視ダッシュボードの導入
 - ログ収集と分析基盤の構築
+- エンジニアの育成
 
 ### 1年後にやりたいこと
 - 各種プロジェクトのマネジメント
@@ -99,7 +100,7 @@ Terraform | Docker | Jenkins | nginx | Apache | Tomcat | Webpack |  SASS | IIS |
 - エンジニアの育成
 
 ### 5年後にやりたいこと
-- ICT事業部全体にかかわってそう
+- ICT事業部全体のマネジメント
 - OTis社内システムの全体最適化
 - ICTの観点でいかにOTisを強い組織にしていくか考えたい
 
