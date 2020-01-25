@@ -80,6 +80,7 @@ Terraform | Docker | Jenkins | nginx | Apache | Tomcat | Webpack | SASS | | Word
 
 ### 現在やりたいこと
 - ICT事業部の技術的な設計及び基盤構築、及び岩瀬谷さんの補佐的な業務
+- コーディング規約、設計書の作成
 - GitHubアカウント統合
 - AWSアカウント統合
 - Gitブランチモデルの適切な定義、導入、運用
