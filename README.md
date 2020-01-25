@@ -44,7 +44,7 @@ MySQL | PostgreSQL | Oracle | SQL Server
 
 #### AWS
 
-VPC | S3 | EC2 | IAM | Cognito | SES | Redshift | EMR(Spark) | Cloud Formation | Cloud Watch
+VPC | S3 | EC2 | IAM | Cognito | SES | Cloud Formation | Cloud Watch
 
 #### GCP
 
