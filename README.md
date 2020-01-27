@@ -104,3 +104,23 @@ Terraform | Docker | Jenkins | nginx | Apache | Tomcat | Webpack | SASS | | Word
 - ICTの観点でいかにOTisを強い組織にしていくか考えたい
 
 ## 主な業務経歴
+
+### 株式会社オーティス 2019/12〜現在
+Software engineer.
+
+### 有限会社TNNシステムズ 2019/04〜2019/07
+Software engineer.
+
+### 苫小牧埠頭株式会社 2018/11〜2019/01
+Office System Engineer.
+
+### 苫小牧市役所 2012/04〜2018/08
+Administrative staff
+
+### アクセンチュア・テクノロジー・ソリュージョンズ株式会社 2007/01〜2012/03
+Software engineer.
+
+### 兼松エレクトロニクス株式会社 2004/04〜2007/01
+Software engineer.
+
+
