@@ -8,8 +8,6 @@
 |性別|男性|
 |年齢|40|
 |居住地|北海道 苫小牧市|
-|Twitter|[@laughingcode](https://twitter.com/laughingcode) (フォロワー170)|
-|Qiita|[@laughingcode](https://qiita.com/laughingcode) (Contribution数180)|
 |英語力|TOEIC535点|
 
 ## 概要
