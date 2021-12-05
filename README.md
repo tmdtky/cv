@@ -6,7 +6,7 @@
 |----|----|
 |名前|玉田 拓哉(Tamada Takuya)|
 |性別|男性|
-|年齢|41|
+|年齢|42|
 |居住地|北海道 苫小牧市|
 |英語力|TOEIC535点|
 
@@ -32,7 +32,7 @@ PHP | Java | Ruby | JavaScript | VC++ | C# | VB.NET | C++ | C | COBOL | HTML | C
 
 ### フレームワーク等
 
-| Laravel | Spring | Struts | Ruby on Rails | jQuery | Vue.js | .NET Framerowk | Bootstrap
+| Laravel | FuelPHP | CakePHP | CodeIgniter | Spring | Struts | Ruby on Rails | jQuery | Vue.js | .NET Framerowk | Bootstrap
 
 ### RDB/NoSQL
 
@@ -44,15 +44,13 @@ MySQL | PostgreSQL | Oracle | SQL Server
 
 IAM | VPC | Route53 | CloudFront | ELB | EC2 | RDS | Workmail | SES | Cognito | Lambda | DynamoDB | Cloud Formation | Cloud Watch
 
-#### GCP
-
 ### SaaS/PaaS
 
 GitHub | BitBucket | GitLab | Salesforce
 
 ### その他
 
-Terraform | Docker | Jenkins | nginx | Apache | Tomcat | Webpack | SASS | | WordPress | IIS | Active Directory | Sharepoint Server | Exchage Server
+Terraform | Docker | Jenkins | Zabbix | Grafana | Nginx | Apache | Tomcat | IIS | Active Directory |
 
 ## バリューを発揮しやすい業務
 
@@ -100,7 +98,9 @@ Software engineer.
 Software engineer.
 
 ## 保有資格
-- AWS認定クラウドプラクティショナー(2021/03)
+- AWS SAA(2021/11)
+
+- AWS CLF(2021/03)
 
 - 応用情報技術者(2009/06)
 
