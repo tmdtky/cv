@@ -1,59 +1,66 @@
 # 業務経歴書
 
-## 基本情報
+## 個人データ
 
 |key|value|
 |----|----|
 |名前|玉田 拓哉(Tamada Takuya)|
-|性別|男性|
-|年齢|42|
-|居住地|北海道 苫小牧市|
-|英語力|TOEIC535点|
 
-## 概要
+## 職務経歴（概要）
+### ソフトウェア開発
+- フードデリバリーサービスの開発
+	- 設計、開発：2年
+	- インフラ設計、構築、保守：2年
 
-- 大小併せて15件ほどのシステム開発プロジェクト経験があります。
+- Webアプリケーションの開発
+	- Java、PHP、C# あわせて10年以上
 
-- 企画、要件定義、基本設計、詳細設計、開発、単体テスト、結合テスト、総合テスト、パフォーマンステスト、受入テスト、導入、運用、保守など様々なフェーズを経験しています。
+- その他のソフトウェア開発経験
+	- CLIツール(Linux/C)
+	- Windowsアプリケーション(Win32API,C,C++,VBA)
 
-- システムアーキテクチャ設計、クラウドインフラ構築管理、基盤コード開発、AWSによるインフラ構築、運用、保守、管理が現在の専門です。
+### 事務職（市職員）
+- 市のセキュリティ規則策定
+- 市役所内の経理システム運用保守
+- 市役所内の部門システムをデータセンターへ統合移行
+ 
+## プログラミングスキル
 
-- バックエンドの多種多様な言語/DB/フレームワークを用いた豊富な開発経験があり、AWS様々なマネージドサービスに精通しています。(元々はWindows系のエンジニアなので.NET系の開発も多数経験しておりますが現在はLinuxプラットフォームでの開発がメインです)
+#### Java
+| Spring | Struts |
 
-- 小規模〜中規模サービスの新規開発フェーズや、サービスのリプレイスフェーズにおいて有用なエンジニアだと思います。(改修フェーズや保守運用フェーズも対応可能ではありますが、サービスのアーキテクチャ設計の段階から参画させて頂くことで最もバリューを発揮できるタイプです)
+#### PHP
+| Laravel | FuelPHP | CakePHP | CodeIgniter |
 
-## スキル
+#### Ruby
+| Ruby on Rails |
 
-- 基本的にすべて実業務で使用した技術だけを列挙しています。
+#### C#
+| ASP.NET |
 
-### 言語
+#### JavaScript
+| Vue.js | jQuery |
 
-PHP | Java | Ruby | JavaScript | VC++ | C# | VB.NET | C++ | C | COBOL | HTML | CSS
+#### CSS
+| Bootstrap |
 
-### フレームワーク等
-
-| Laravel | FuelPHP | CakePHP | CodeIgniter | Spring | Struts | Ruby on Rails | jQuery | Vue.js | .NET Framerowk | Bootstrap
-
-### RDB/NoSQL
-
-MySQL | PostgreSQL | Oracle | SQL Server
+#### RDB/NoSQL
+| MySQL | PostgreSQL | Oracle | SQL Server |
 
 ### クラウド
 
 #### AWS
+| IAM | VPC | Route53 | ACM | CloudFront | ELB | EC2 | RDS | DynamoDB | S3 | AutoScaling |
+| Workmail | SES | Cognito | Lambda | LightSail | Cloud Formation | Cloud Watch |
+| Config | Trust Advisor | Athena | GuardDuty | Shield | Cost Explorer | Budgets |
 
-IAM | VPC | Route53 | CloudFront | ELB | EC2 | RDS | Workmail | SES | Cognito | Lambda | DynamoDB | Cloud Formation | Cloud Watch
-
-### SaaS/PaaS
-
-GitHub | BitBucket | GitLab | Salesforce
+#### コード管理
+| GitHub | BitBucket | GitLab |
 
 ### その他
-
-Terraform | Docker | Jenkins | Zabbix | Grafana | Nginx | Apache | Tomcat | IIS | Active Directory |
+| Docker | Zabbix | Grafana | Nginx | Apache | Tomcat | IIS |
 
 ## バリューを発揮しやすい業務
-
 - システムアーキテクチャ設計
 - クラウドアーキテクチャ設計
 - クラウドインフラ構築管理
@@ -66,13 +73,12 @@ Terraform | Docker | Jenkins | Zabbix | Grafana | Nginx | Apache | Tomcat | IIS 
 - ログ収集と分析基盤の構築
 
 ### 現在やりたいこと
-- DDD、Clean Architectureを用いた保守性に優れた開発
-- TypeScriptなどの静的型付け言語によるWebサービス開発
+- TypeScript、Go、Javaなどの静的型付け言語によるWebサービス開発
+- テスト駆動開発によるWebサービスの品質向上
 
 ### 1年後にやりたいこと
-- 各種プロジェクトのマネジメント
-- 各種プロジェクトの技術選定、基盤構築
-- エンジニアの育成
+- Kubernetes、Docker等を用いたインフラ基盤構築
+- 機械学習に関する理解を深めWebサービスに適用
 
 ## 主な業務経歴
 
